@@ -1,0 +1,15 @@
+I:\C#\homework 7\HM2\bin\Debug\net6.0\HM2.exe
+I:\C#\homework 7\HM2\bin\Debug\net6.0\HM2.deps.json
+I:\C#\homework 7\HM2\bin\Debug\net6.0\HM2.runtimeconfig.json
+I:\C#\homework 7\HM2\bin\Debug\net6.0\HM2.dll
+I:\C#\homework 7\HM2\bin\Debug\net6.0\HM2.pdb
+I:\C#\homework 7\HM2\obj\Debug\net6.0\HM2.csproj.AssemblyReference.cache
+I:\C#\homework 7\HM2\obj\Debug\net6.0\HM2.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#\homework 7\HM2\obj\Debug\net6.0\HM2.AssemblyInfoInputs.cache
+I:\C#\homework 7\HM2\obj\Debug\net6.0\HM2.AssemblyInfo.cs
+I:\C#\homework 7\HM2\obj\Debug\net6.0\HM2.csproj.CoreCompileInputs.cache
+I:\C#\homework 7\HM2\obj\Debug\net6.0\HM2.dll
+I:\C#\homework 7\HM2\obj\Debug\net6.0\refint\HM2.dll
+I:\C#\homework 7\HM2\obj\Debug\net6.0\HM2.pdb
+I:\C#\homework 7\HM2\obj\Debug\net6.0\HM2.genruntimeconfig.cache
+I:\C#\homework 7\HM2\obj\Debug\net6.0\ref\HM2.dll
